@@ -24,7 +24,6 @@
 |08|  2| 
 |18|  2| 
 |20|  2| 
-|10|  3| 
 
 ###  3 Discord migration of an existing server + common use cases for use in the classroom setting
 |Group|Project|
@@ -34,6 +33,7 @@
 |02|  3| 
 |05|  3| 
 |09|  3| 
+|21| 3|
 
 
 ###  4 SMS based testing with the use of Twilio for OU's Health Science ER doctor
@@ -62,3 +62,4 @@
 | 04|  6| 
 | 07|  6| 
 | 11|  6| 
+|10| 6|
