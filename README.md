@@ -1,4 +1,51 @@
-# Projects
+# Capstone Projects 2022
+## 
+
+* (--) indicates the start of the next project.
+
+---
+### Thursday, May 5th, 2022:
+---
+* Team 4
+* Team 10
+---
+* Team 27
+* Team 2
+* Team 28
+---
+* Team 6
+* Team 15
+---
+* Team 8
+* Team 18
+
+---
+---
+### Final:
+---
+
+* Team 1
+* Team 20
+---
+* Team 3
+* Team 14
+* Team 16
+---
+* Team 7
+* Team 11
+* Team 13
+* Team 23
+---
+* Team 22
+---
+* Team 25
+---
+* Team 5
+* Team 9
+* Team 21
+---
+
+
 ## Projects
 |Number| Description|
 |:---:|---|
@@ -64,3 +111,5 @@
 | 11|  6| 
 |10| 6|
 |13| 6|
+
+
