@@ -1,7 +1,7 @@
 # Capstone Projects 2022
 ## 
 
-* (--) indicates the start of the next project.
+* horizontal line indicates the start of the next project.
 
 ---
 ### Thursday, May 5th, 2022:
