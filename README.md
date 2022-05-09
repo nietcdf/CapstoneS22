@@ -16,8 +16,6 @@
 * Team 6
 * Team 15
 ---
-* Team 8
-* Team 18
 
 ---
 ---
@@ -26,6 +24,8 @@
 
 * Team 1
 * Team 20
+* Team 8
+* Team 18
 ---
 * Team 3
 * Team 14
