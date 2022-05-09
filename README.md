@@ -39,6 +39,7 @@
 * Team 22
 ---
 * Team 25
+* Team 24
 ---
 * Team 5
 * Team 9
